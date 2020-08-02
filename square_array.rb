@@ -5,5 +5,5 @@ def square_array(array)
   end
 end
 def square_array(array)
-  array.collect
+  array.collect do |number|
 end
